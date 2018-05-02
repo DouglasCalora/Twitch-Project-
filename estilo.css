@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline|Fredericka+the+Great');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body {
+  background: #09CAB0;
+}
+.btn-option {
+  text-align: center;
+}
+.content {
+  max-width: 500px;
+  min-width: 50%;
+  max-height: 10000px;
+  min-height:500px;
+  background: #261E46;
+  color: white;
+  padding: 20px;
+  margin-top: 50px;
+  border-radius: 15px 50px
+}
+
+.content h1 {
+  font-family: 'Bungee Inline', cursive;
+}
+
+.linha {
+  width: 50%;
+  background: white;
+}
+
+.streamers {
+  font-family: 'Fredericka the Great', cursive;
+}
+
+a, a:hover{
+  color:white;
+}
+
+
+.icon-green{
+  color: green;
+}
+
+img {
+  max-width: 50px
+}
